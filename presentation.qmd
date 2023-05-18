@@ -1,0 +1,79 @@
+---
+title: "Treat societally impactful scientific insights as open-source software artifacts"
+author: 
+  - name: Cynthia C. S. Liem
+  - name: Andrew M. Demetriou
+  - name: _Delft University of Technology_
+date: today
+format: 
+  tudelft-revealjs:
+    theme: custom_override.scss
+    footer: made with [Quarto](https://quarto.org/) - [quarto-tudelft](https://github.com/pat-alt/quarto-tudelft) template by [Patrick Altmeyer](https://www.paltmeyer.com)
+    self-contained: true
+    embed-resources: true
+    incremental: true
+    smaller: false
+    scrollable: true
+    preview-links: auto
+    slide-number: true
+    transition: none
+    background-transition: fade
+    fig-align: center
+draft: true
+---
+
+# Researchers, we need to talk...{transition='slide'}
+
+## Declare bankruptcy on papers at competitive large venues?
+- Paper quality control is breaking down:
+    - increasing volume and reviewer overwhelmedness;
+        - getting accepted/rejected in competitive venues is more about noise than merit.
+        - authors worry more about 'getting there first'/'selling the story' than facilitating collective learning.
+        - we can't reasonably keep up.
+
+## Declare bankruptcy on papers at competitive large venues?
+- Replication crises with little self-correction;
+- Interdisciplinary work poorly understood.
+
+## Declare bankruptcy on papers at competitive large venues?
+- Today's societal challenges need inter- and transdisciplinary insights, connecting to policy-making...
+    - ...but the way in which we frame novelty and achievement poses risks to academic legitimacy.
+
+# What if we consider the development of scientific insight like that of open-source software?{transition='slide'}
+
+## Scientific insight as a continuously developing knowledge artifact
+- Look at Git for ways to organize knowledge-building:
+    - 'Main branch' for current consensus/insight;
+    - Branches, pull/merge requests, conflict resolution, forks;
+    - Inclusive credit with provenance.
+
+## Scientific insight as a continuously developing knowledge artifact
+- Decomposition of insight into maintainable, overseeable units:
+    - Focused review and expertise requests;
+    - Smaller, solid contributions can serve more complex, bigger-picture integrations.
+
+## Scientific insight as a continuously developing knowledge artifact
+- Organizational safety to find weaknesses:
+    - Pro-actively search for and fix bugs, without fearing your whole application gets retracted if you find one.
+
+# Why we submitted this to ICSE{transition='slide'}
+
+## This community may hold some keys...
+- SE best practices are your bread and butter;
+- You have been progressive wrt open science;
+- You seem about to reform;
+- You seem conscious about connecting more to 'the real world' outside your own bubble.
+
+## Your impact may reach beyond the software engineering domain
+- Considerable momentum and enthusiasm in our junior generation!
+- May the software engineering community help us in prototyping this further?
+
+## Your impact may reach beyond the software engineering domain
+- Senior colleagues, you can change _your_ system, and the winds are favorable:
+    - [San Francisco Declaration on Research Assessment](https://sfdora.org/);
+    - [Recognition & Rewards](https://recognitionrewards.nl/) and [Research Strategy Evaluation Protocol](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf) in The Netherlands;
+    - [China bans cash rewards for publishing papers](https://www.nature.com/articles/d41586-020-00574-8);
+    - [Australian Research Assessment reforms](https://www.nature.com/articles/d41586-023-01611-y).
+
+## Thanks!
+![Pre-print and slides: [https://www.cynthialiem.com/publication/science-as-oss/](https://www.cynthialiem.com/publication/science-as-oss/)](www/science_as_oss_qr.png)
